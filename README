@@ -1,0 +1,1 @@
+A Python class for interfacing with Atmel's atprogram binary via subprocess'.
